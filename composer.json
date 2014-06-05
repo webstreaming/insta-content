@@ -1,0 +1,20 @@
+{
+    "name": "webstreaming/insta-content",
+    "type": "library",
+    "description": "A PHP library to retrieve content from instagram",
+    "keywords": ["instagram"],
+    "homepage": "https://github.com/webstreaming/insta-content",
+    "license": "LGPL-3",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Gabriel Carignano",
+            "email": "gcarignano@webstreaming.com.ar",
+            "homepage": "http://webstreaming.com.ar",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
